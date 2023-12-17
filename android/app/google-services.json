@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111209207810",
+    "project_id": "auth-for-test-manager",
+    "storage_bucket": "auth-for-test-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111209207810:android:eaa9452186173179926f1b",
+        "android_client_info": {
+          "package_name": "com.example.test_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCazz-LalRzUKBSHbm0we4LofHfsCSoP2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
